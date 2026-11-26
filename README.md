@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/muhammadaldy198/painfully-honest-out-of-office/rank.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
 [![reward](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/muhammadaldy198/painfully-honest-out-of-office/reward.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
 
-One painfully honest out-of-office auto-reply in a single sentence: the manager-approved version of my feelings, instead of the reply I typed first and deleted on Friday.
+A Node 22 program that writes one painfully honest out-of-office auto-reply to entry.txt.
 
 ## Run it
 
